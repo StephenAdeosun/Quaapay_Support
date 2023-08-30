@@ -82,7 +82,7 @@ function Payment() {
       <Box marginLeft="8px" color="black">Pay with Quaapay Wallet</Box>
     </Box>
     <Button type="submit" w="100%" bgColor="#4335E2" _hover={{bgColor:"#4335E2"}} py='6' mt={6}>
-          <Link to='/card'>Continue</Link>
+          <Link to='/card'  color='white'>Continue</Link>
           
         </Button>
     </Box>

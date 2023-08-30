@@ -118,7 +118,7 @@ function Card() {
           />
         </FormControl>
         <Button type="submit" w="100%" bgColor="#4335E2" _hover={{bgColor:"#4335E2"}} py='6' mt={6}>
-        <Link to='/successpay'>Pay $100 now</Link>
+        <Link to='/successpay'  color='white'>Pay $100 now</Link>
 
         </Button>
       </form>

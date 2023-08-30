@@ -87,7 +87,7 @@ function Support() {
 
 
         <Button type="submit" w="100%" bgColor="#4335E2" _hover={{bgColor:"#4335E2"}} py='6' mt={6}>
-          <Link to='/payment'>Continue</Link>
+          <Link to='/payment' color='white'>Continue</Link>
         </Button>
       </form>
     </Box>

@@ -54,7 +54,7 @@ function successpay() {
 
 
     <Button  w="100%" bgColor="#4335E2" _hover={{bgColor:"#4335E2"}} py='6' mt={14}>
-          <Link to='/'>Back Home</Link>
+          <Link to='/'  color='white'>Back Home</Link>
          
         </Button>
     </Box>
