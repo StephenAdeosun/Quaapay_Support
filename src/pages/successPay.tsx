@@ -53,7 +53,7 @@ function successpay() {
       <Text mt={3}  color="black" maxWidth="460px" textAlign="center" m="auto">   We’ll be in touch with you soon.</Text>
 
 
-    <Button  w="100%" bgColor="#4335E2" _hover={{bgColor:"#4335E2"}} py='6' mt={14}>
+    <Button  w="100%" bgColor="#4335E2" color='white' _hover={{bgColor:"#4335E2"}} py='6' mt={14}>
           <Link to='/'  color='white'>Back Home</Link>
          
         </Button>
