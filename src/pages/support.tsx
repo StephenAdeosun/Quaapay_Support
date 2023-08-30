@@ -42,7 +42,7 @@ function Support() {
   return (
     <Box bgColor="white">
    
-    <Box textAlign="center" maxWidth="700px" m="auto" bgColor="white" p={{base:'2', sm:'6', lg:'10'}} borderColor='gray.600'>
+    <Box textAlign="center" maxWidth="700px" m="auto" bgColor="white" p={{base:'6', sm:'6', lg:'10'}} borderColor='gray.600'>
       <Text color="black"  mb="4"  fontSize="34px" fontWeight="900">Support Quaapay</Text>
       <Text mt={3} color="black" maxWidth="480px" m="auto">Support quaapay company to create more massive features you will enjoy later on.</Text>
 
