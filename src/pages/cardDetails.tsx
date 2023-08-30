@@ -51,19 +51,12 @@ function Card() {
           />
                </Link>
        </Box>
-    <Box textAlign="center" maxWidth="700px" m="auto" bgColor="white" p={{base:'2', sm:'6', lg:'10'}} borderColor='gray.600'>
+    <Box textAlign="center" maxWidth="700px" m="auto" bgColor="white" p={{base:'6', sm:'6', lg:'10'}} borderColor='gray.600'>
       <Text color="black"  mb="4"  fontSize="34px" fontWeight="900">Input card details</Text>
       <Text mt={3} color="black" maxWidth="480px" m="auto">Kindly input your card details to pay for quaapay support.</Text>
 
 
-{/* <Box mt="8" display={"flex"} flexDir='row' w='100%' justifyContent="space-between">
-      <Button variant="outline" borderColor=" gray.600"  color="black" w='49%' mt={5}  py={"26px"}>
-        Give Once
-      </Button> 
-      <Button variant="outline" borderColor=" gray.600"  color="black" w='49%' mt={5} py={"26px"}>
-       Give Monthly
-      </Button>
-      </Box> */}
+
       <Text mt={8} color="black" textAlign="left" fontSize="lg" fontWeight="xl">Input Card Details</Text>
 
       <form >
